@@ -1,1 +1,1 @@
-# cats-vs-dogs-cnn
+CONVOLUTIONAL NEURAL NETWORKS
